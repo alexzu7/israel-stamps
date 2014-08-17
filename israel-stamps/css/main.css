@@ -1,0 +1,113 @@
+html,body{padding:0 0 0 0;margin:0 0 0 0;background:#333;color:#5c5c5c;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:16px}
+.center{margin:0 auto;width:1000px}
+.box{float:left;width:100%}
+header{background-color:#232323;border-bottom:1px solid #151515;height:65px}
+p{padding:0 0 10px 0;margin:0 0 0 0}
+a{text-decoration:none;color:#52808e}
+a:hover{color:#000}
+:focus{outline:none}
+img{border:0}
+ul{padding:0 0 0 0;margin:0 0 0 0}
+table{padding:0;margin:0;border-collapse:collapse}
+tr,td{padding:0;margin:0}
+.left{float:left}
+.right{float:right}
+.hidden{display:none}
+.jquery-lightbox-html .hidden{display:block}
+.padding-box{margin:10px 0 0 10px;width:980px;font-size:14px;line-height:20px}
+.align-right{text-align:right}
+.align-center{text-align:center}
+.thank-you p{text-align:center;padding:50px 0}
+.title{font-size:20px;color:#52808e;padding:0 0 10px 0}
+.title-16,.cart-form-desc .title-16{font-size:16px;line-height:18px;color:#52808e;font-weight:bold}
+.arrow{background:url("../img/common/arrow.png") no-repeat right center;padding-right:15px}
+.arrow-up{background:url("../img/common/blue-arrow-up.png") no-repeat right center;padding-right:15px}
+.dotted-title{font-size:20px;color:#52808e;padding:0 0 10px 0;margin:0 0 25px 0;border-bottom:1px dotted #52808e}
+.dotted-bottom{border-bottom:1px dotted #52808e;padding-bottom:10px;margin-bottom:10px}
+.hmenu{padding:0;margin:0;list-style:none}
+.hmenu li{float:left}
+.vmenu{list-style-type:square;margin:20px;padding:0 0 0 10px}
+#logo{float:left;margin:10px 0 0 0}
+nav{background-color:#333;border-bottom:1px solid #444;border-top:1px solid #383838;min-height:45px;overflow:hidden}
+#top-menu{float:right;font-size:12px;margin:12px 0 0}
+#top-menu li{padding-left:15px}
+#top-menu a{color:#c5c5c5}
+#bread-crumbs{background-color:#d2d1d0;height:30px;overflow:hidden}
+#bread-crumbs p{padding:6px 0 0 0}
+#main-content{background-color:#d2d1d0;padding:0 0 30px}
+#page-content{background-color:#f4f4f4;border:1px solid #bbb;min-height:500px}
+footer{background-color:#232323;border-bottom:1px solid #151515;height:55px;overflow:hidden}
+footer p{padding:20px 0 0 0}
+footer a:hover{color:#c5c5c5}
+.stamps-list .left{float:left;width:310px}
+.stamps-list .right{float:right;width:680px}
+.stamps-list .stamp{margin:0 0 15px 0;border-bottom:1px dotted #bbb}
+.stamps-list .stamp p{padding:0 15px 15px 15px}
+.stamps-list .stamp 1,.stamps-list .stamp .title a{font-weight:bold;font-size:13px}
+.stamps-list .stamp-title{font-size:13px;font-weight:bold}
+.stamps-list .stamp ul{padding:0 0 15px 15px;margin:0 0 0 15px}
+.stamps-list .thumb{text-align:center}
+.stamps-list .type{font-size:11px;font-weight:normal;color:#bc3415}
+.stamps-list .mint-used{font-size:11px;font-weight:normal;color:#375b66}
+.stamps-list .cat-num,.stamps-list .price,.stamps-list .year{color:#bc3415}
+.stamps-list .bold{font-weight:bold;color:#5c5c5c}
+#cart{float:right;color:#fff;background:#375b66 url("../img/common/cart.png") no-repeat 10px 9px;margin:13px 0 0 0;border-radius:5px;overflow:hidden}
+#cart .info{float:left;padding:10px 15px 10px 37px}
+#cart .checkout{float:left}
+#cart .edit{float:left}
+#cart a,#cart .simpleCart_checkout{color:#ffedc6;font-weight:bold;display:block;float:left;padding:10px 10px 10px 15px;background-color:#52808e;cursor:pointer}
+#cart .checkout span{border-right:1px dotted #375b66}
+#cart .edit a{padding-right:15px}
+.simpleCart_items{float:left;width:100%;width:960px;margin:0 0 0 20px}
+.simpleCart_items table{width:100%}
+.simpleCart_items td,.simpleCart_items th{text-align:center;border:1px solid #d2d1d0;padding:5px 15px}
+.headerRow{background-color:#e3e8ed}
+.itemRow{background-color:#fff}
+.cart-total p{background-color:#eee;border:1px solid #d2d1d0;border-top:0;color:#bc3415;font-size:15px;margin:0 20px;padding:5px 10px 5px 0;text-align:center}
+.grey-btn{-moz-box-shadow:inset 0 1px 0 0 #fff;-webkit-box-shadow:inset 0 1px 0 0 #fff;box-shadow:inset 0 1px 0 0 #fff;background:-webkit-gradient(linear,left top,left bottom,color-stop(.05,#ededed),color-stop(1,#dfdfdf));background:-moz-linear-gradient(center top,#ededed 5%,#dfdfdf 100%);background-color:#ededed;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;border:1px solid #dcdcdc;display:inline-block;color:#777;font-family:arial;font-size:15px;font-weight:bold;padding:6px 24px;text-decoration:none;text-shadow:1px 1px 0 #fff}
+.blue-btn{-moz-box-shadow:inset 0 1px 0 0 #9dc8e3;-webkit-box-shadow:inset 0 1px 0 0 #9dc8e3;box-shadow:inset 0 1px 0 0 #9dc8e3;background:-webkit-gradient(linear,left top,left bottom,color-stop(.05,#bfc2c7),color-stop(1,#375b66));background:-moz-linear-gradient(center top,#bfc2c7 5%,#375b66 100%);background-color:#bfc2c7;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;border:1px solid #6f7c80;display:inline-block;color:#fff;font-family:arial;font-size:15px;font-weight:bold;padding:6px 24px;text-decoration:none;text-shadow:1px 1px 0 #415161;cursor:pointer}
+.add-to-cart{float:left;padding:3px 10px;border-radius:3px;margin:0 0 15px 15px;background-color:#bc3415}
+.read-more,.order-now-btn{float:left;padding:3px 10px;border-radius:3px;margin:0 0 15px 15px;background-color:#375b66}
+.order-now-btn{background-color:#52808e}
+.add-to-cart span,.read-more a,.order-now-btn a{color:#fff;cursor:pointer}
+.jplist{float:left;width:100%}
+.jplist .jplist-no-results{display:none}
+.jplist .jplist-no-results p{text-align:center;padding:10px 0 30px 0}
+.jplist .panel{float:left;width:100%;margin:0 0 0 0;padding:10px 0 10px 0;background:#fff;font-family:'arial';color:#444;font-size:12px;line-height:18px}
+.jplist .drop-down{float:left;width:130px;height:16px;margin:0 0 0 15px;border:1px solid #c5c5c5}
+.jplist .filter{float:left}
+.jplist .filter input{display:block;float:left;width:130px;height:14px;margin:0 0 0 10px;border:1px solid #c5c5c5;border-radius:3px}
+.jplist .filter .search-title{float:left;margin-left:10px}
+.jplist .pagingprev,.jplist .pagingmid,.jplist .pagingnext{float:left}
+.jplist .paging{float:right;margin:0 10px 0 15px}
+.jplist .paging span{cursor:pointer;margin:0 5px 0 0}
+.jplist .paging .current{font-weight:bold;color:#bc3415}
+.jplist .panel-top{margin-bottom:20px;border-bottom:1px dotted #bbb}
+.jplist .panel-bottom{border-top:1px dotted #bbb}
+.jplist .paging-results{float:right;margin:0 0 0 15px}
+.jplist .drop-down .panel{float:left;width:125px;height:16px;line-height:16px;overflow:hidden;background:#fff url("../img/common/down-arrow.jpg") no-repeat top right;padding:0 0 0 5px;margin:0 0 0 0;cursor:pointer}
+.jplist .drop-down ul{position:relative;top:0;left:-1px;z-index:1000;width:129px;display:none;overflow:hidden;background-color:#fff;border:1px solid #c5c5c5;padding:0 0 0 0;margin:0 0 0 0;list-style:none;border-radius:0 0 3px 3px}
+.jplist .drop-down li{padding:0 0 0 5px;cursor:pointer;width:130px;float:left;background-color:#fff}
+.jplist .drop-down li:hover{background-color:#444;color:#fff}
+#stamp-content .img{background-color:#444;border:1px solid #444;float:left;margin:10px 0 0 10px;padding:20px 0;text-align:center;width:978px}
+#stamp-content .info{background-color:#fff;border:1px solid #c5c5c5;float:left;margin:10px 0 10px 10px;padding:20px;width:938px;min-height:300px}
+#stamp-content .info h1{margin:0;padding:0 10px 10px 0;line-height:20px;font-size:16px;font-weight:normal;color:#375b66}
+#stamp-content .info ul{padding:0 0 0 10px;margin:0 0 0 10px}
+#stamp-content .info .value{color:#bc3415}
+.hp-img{text-align:center;background-color:#444;padding:40px 0 30px 0;margin-bottom:10px}
+.form-box-center{width:530px}
+.form-box{float:left;width:530px;margin:40px 0}
+.form-box .row{margin:0 0 10px 0}
+.form-box label{float:left;display:block;width:100px}
+.form-box input[type='text'],.form-box textarea{float:right;display:block;width:400px;border:1px solid #c5c5c5}
+.form-box textarea{height:150px}
+.form-box input[type='button']{border:1px solid #c5c5c5;border-radius:3px}
+.form-box .red-btn{color:#bc3415;background-color:#fff}
+.cart-form-box{margin:20px}
+.cart-form-desc{float:left;margin:20px;width:380px}
+.cart-form-desc p{line-height:24px}
+#langs{float:right;margin:15px 20px 0 0}
+#langs li{margin:0 5px 0 0}
+#popup p{line-height:20px;font-size:16px}
+#popup .popup-close{background:url("../img/common/close.png") no-repeat center left;padding-left:17px}
+#popup .popup-cart{background:url("../img/common/grey-cart.png") no-repeat center left;padding-left:20px}

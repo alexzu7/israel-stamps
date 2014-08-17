@@ -1,0 +1,10 @@
+C:\inetpub\wwwroot\codelib\asp.net\websites\israel-stamps\israel-stamps\bin\israel-stamps.dll
+C:\inetpub\wwwroot\codelib\asp.net\websites\israel-stamps\israel-stamps\bin\israel-stamps.pdb
+C:\inetpub\wwwroot\codelib\asp.net\websites\israel-stamps\israel-stamps\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\codelib\asp.net\websites\israel-stamps\israel-stamps\obj\Debug\israel-stamps.dll
+C:\inetpub\wwwroot\codelib\asp.net\websites\israel-stamps\israel-stamps\obj\Debug\israel-stamps.pdb
+C:\inetpub\wwwroot\drive\codelib\asp.net\websites\israel-stamps\israel-stamps\bin\israel-stamps.dll
+C:\inetpub\wwwroot\drive\codelib\asp.net\websites\israel-stamps\israel-stamps\bin\israel-stamps.pdb
+C:\inetpub\wwwroot\drive\codelib\asp.net\websites\israel-stamps\israel-stamps\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\drive\codelib\asp.net\websites\israel-stamps\israel-stamps\obj\Debug\israel-stamps.dll
+C:\inetpub\wwwroot\drive\codelib\asp.net\websites\israel-stamps\israel-stamps\obj\Debug\israel-stamps.pdb
